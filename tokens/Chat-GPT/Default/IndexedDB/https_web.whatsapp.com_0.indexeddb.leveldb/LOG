@@ -1,0 +1,60 @@
+2023/02/11-19:35:19.736 308c Reusing MANIFEST C:\Users\Administrator\Downloads\zap-gpt-main\tokens\Chat-GPT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/11-19:35:19.737 308c Recovering log #2063
+2023/02/11-19:35:19.804 308c Reusing old log C:\Users\Administrator\Downloads\zap-gpt-main\tokens\Chat-GPT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/002063.log 
+2023/02/11-19:35:31.572 353c Level-0 table #2089: started
+2023/02/11-19:35:31.601 353c Level-0 table #2089: 1348184 bytes OK
+2023/02/11-19:35:31.603 353c Delete type=0 #2063
+2023/02/11-19:35:31.780 30d0 Compacting 1@0 + 0@1 files
+2023/02/11-19:35:31.806 30d0 Generated table #2090@0: 20806 keys, 470394 bytes
+2023/02/11-19:35:31.811 30d0 Generated table #2091@0: 1208 keys, 65917 bytes
+2023/02/11-19:35:31.811 30d0 Compacted 1@0 + 0@1 files => 536311 bytes
+2023/02/11-19:35:31.812 30d0 compacted to: files[ 0 2 20 0 0 0 0 ]
+2023/02/11-19:35:31.812 30d0 Delete type=2 #2089
+2023/02/11-19:35:32.040 353c Compacting 1@1 + 10@2 files
+2023/02/11-19:35:32.110 353c Generated table #2092@1: 23779 keys, 2422258 bytes
+2023/02/11-19:35:32.157 353c Generated table #2093@1: 8212 keys, 2165542 bytes
+2023/02/11-19:35:32.197 353c Generated table #2094@1: 2040 keys, 2137617 bytes
+2023/02/11-19:35:32.426 353c Generated table #2095@1: 2234 keys, 2135865 bytes
+2023/02/11-19:35:32.509 353c Generated table #2096@1: 30970 keys, 2253224 bytes
+2023/02/11-19:35:32.597 353c Generated table #2097@1: 24891 keys, 2198099 bytes
+2023/02/11-19:35:32.700 353c Generated table #2098@1: 73751 keys, 2215542 bytes
+2023/02/11-19:35:32.816 353c Generated table #2099@1: 99219 keys, 2250219 bytes
+2023/02/11-19:35:32.844 353c Generated table #2100@1: 19886 keys, 550873 bytes
+2023/02/11-19:35:32.844 353c Compacted 1@1 + 10@2 files => 18329239 bytes
+2023/02/11-19:35:32.845 353c compacted to: files[ 0 1 19 0 0 0 0 ]
+2023/02/11-19:35:32.875 33c8 Compacting 1@1 + 10@2 files
+2023/02/11-19:35:32.951 33c8 Generated table #2101@1: 27956 keys, 2257034 bytes
+2023/02/11-19:35:33.021 33c8 Generated table #2102@1: 23277 keys, 2262198 bytes
+2023/02/11-19:35:33.089 33c8 Generated table #2103@1: 22561 keys, 2261169 bytes
+2023/02/11-19:35:33.153 33c8 Generated table #2104@1: 22940 keys, 2268568 bytes
+2023/02/11-19:35:33.220 33c8 Generated table #2105@1: 23545 keys, 2280003 bytes
+2023/02/11-19:35:33.294 33c8 Generated table #2106@1: 23468 keys, 2265526 bytes
+2023/02/11-19:35:33.358 33c8 Generated table #2107@1: 22374 keys, 2264083 bytes
+2023/02/11-19:35:33.521 33c8 Generated table #2108@1: 52312 keys, 2260523 bytes
+2023/02/11-19:35:33.615 33c8 Generated table #2109@1: 105462 keys, 2259861 bytes
+2023/02/11-19:35:33.689 33c8 Generated table #2110@1: 32690 keys, 2464100 bytes
+2023/02/11-19:35:33.697 33c8 Generated table #2111@1: 397 keys, 174864 bytes
+2023/02/11-19:35:33.697 33c8 Compacted 1@1 + 10@2 files => 23017929 bytes
+2023/02/11-19:35:33.698 33c8 compacted to: files[ 0 0 20 0 0 0 0 ]
+2023/02/11-19:35:33.698 33c8 Delete type=2 #2067
+2023/02/11-19:35:33.698 33c8 Delete type=2 #2068
+2023/02/11-19:35:33.698 33c8 Delete type=2 #2069
+2023/02/11-19:35:33.698 33c8 Delete type=2 #2070
+2023/02/11-19:35:33.698 33c8 Delete type=2 #2071
+2023/02/11-19:35:33.698 33c8 Delete type=2 #2072
+2023/02/11-19:35:33.698 33c8 Delete type=2 #2073
+2023/02/11-19:35:33.698 33c8 Delete type=2 #2074
+2023/02/11-19:35:33.698 33c8 Delete type=2 #2075
+2023/02/11-19:35:33.698 33c8 Delete type=2 #2076
+2023/02/11-19:35:33.699 33c8 Delete type=2 #2077
+2023/02/11-19:35:33.699 33c8 Delete type=2 #2078
+2023/02/11-19:35:33.699 33c8 Delete type=2 #2079
+2023/02/11-19:35:33.699 33c8 Delete type=2 #2080
+2023/02/11-19:35:33.699 33c8 Delete type=2 #2081
+2023/02/11-19:35:33.699 33c8 Delete type=2 #2082
+2023/02/11-19:35:33.699 33c8 Delete type=2 #2083
+2023/02/11-19:35:33.699 33c8 Delete type=2 #2084
+2023/02/11-19:35:33.699 33c8 Delete type=2 #2085
+2023/02/11-19:35:33.699 33c8 Delete type=2 #2086
+2023/02/11-19:35:33.700 33c8 Delete type=2 #2090
+2023/02/11-19:35:33.700 33c8 Delete type=2 #2091

@@ -24,8 +24,10 @@ const getDavinciResponse = async (clientText) => {
     const options = {
         model: "text-davinci-003", // Modelo GPT a ser usado
         prompt: clientText, // Texto enviado pelo usuário
-        temperature: 1, // Nível de variação das respostas geradas, 1 é o máximo
-        max_tokens: 4000 // Quantidade de tokens (palavras) a serem retornadas pelo bot, 4000 é o máximo
+        //temperature: 1, // Nível de variação das respostas geradas, 1 é o máximo
+        temperature: 0, // Nível de variação das respostas geradas, 1 é o máximo
+        //max_tokens: 4000 // Quantidade de tokens (palavras) a serem retornadas pelo bot, 4000 é o máximo
+        max_tokens: 1000 // Quantidade de tokens (palavras) a serem retornadas pelo bot, 4000 é o máximo
     }
 
     try {
@@ -62,6 +64,7 @@ const commands = (client, message) => {
     }
 
     let firstWord = message.text.substring(0, message.text.indexOf(" "));
+    console.log(firstWord);
 
     switch (firstWord) {
         case iaCommands.davinci3:
@@ -80,6 +83,7 @@ const commands = (client, message) => {
 
         case iaCommands.dalle:
             const imgDescription = message.text.substring(message.text.indexOf(" "));
+            console.log(imgDescription);
             getDalleResponse(imgDescription, message).then((imgUrl) => {
                 client.sendImage(
                     message.from === process.env.BOT_NUMBER ? message.to : message.from,

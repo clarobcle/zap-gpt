@@ -1,0 +1,24 @@
+2023/02/10-12:28:10.349 998 Reusing MANIFEST C:\Users\Administrator\Downloads\zap-gpt-main\tokens\Chat-GPT\Default\Local Storage\leveldb/MANIFEST-000001
+2023/02/10-12:28:10.351 998 Recovering log #51
+2023/02/10-12:28:10.353 998 Reusing old log C:\Users\Administrator\Downloads\zap-gpt-main\tokens\Chat-GPT\Default\Local Storage\leveldb/000051.log 
+2023/02/10-13:18:47.460 32e4 Level-0 table #55: started
+2023/02/10-13:18:47.462 32e4 Level-0 table #55: 8767 bytes OK
+2023/02/10-13:18:47.463 32e4 Delete type=0 #51
+2023/02/10-19:41:15.865 307c Level-0 table #57: started
+2023/02/10-19:41:15.867 307c Level-0 table #57: 8613 bytes OK
+2023/02/10-19:41:15.869 307c Delete type=0 #54
+2023/02/10-19:41:15.869 307c Compacting 4@0 + 1@1 files
+2023/02/10-19:41:15.871 307c Generated table #58@0: 15 keys, 929 bytes
+2023/02/10-19:41:15.871 307c Compacted 4@0 + 1@1 files => 929 bytes
+2023/02/10-19:41:15.871 307c compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/02/10-19:41:15.872 307c Delete type=2 #47
+2023/02/10-19:41:15.872 307c Delete type=2 #49
+2023/02/10-19:41:15.872 307c Delete type=2 #52
+2023/02/10-19:41:15.872 307c Delete type=2 #55
+2023/02/10-19:41:15.872 307c Delete type=2 #57
+2023/02/11-05:51:15.863 1bec Level-0 table #60: started
+2023/02/11-05:51:15.864 1bec Level-0 table #60: 8494 bytes OK
+2023/02/11-05:51:15.866 1bec Delete type=0 #56
+2023/02/11-14:19:41.661 6bc Level-0 table #62: started
+2023/02/11-14:19:41.663 6bc Level-0 table #62: 8686 bytes OK
+2023/02/11-14:19:41.664 6bc Delete type=0 #59
