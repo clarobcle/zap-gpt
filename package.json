@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.3",
+    "puppeteer": "^19.7.0",
     "openai": "^3.1.0",
     "venom-bot": "^4.3.7"
   }
