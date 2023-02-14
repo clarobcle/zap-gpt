@@ -59,12 +59,12 @@ const getDalleResponse = async (clientText) => {
 
 const commands = (client, message) => {
     const iaCommands = {
-        davinci3: "/p",
-        dalle: "/i"
+        davinci3: "/bot",
+        dalle: "/img"
     }
 
     let firstWord = message.text.substring(0, message.text.indexOf(" "));
-    console.log(firstWord);
+    //console.log(firstWord);
 
     switch (firstWord) {
         case iaCommands.davinci3:
